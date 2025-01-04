@@ -16,7 +16,7 @@ Alternatively, you can clone the repository and copy the configs folder to `.con
 
 ```sh
 git clone https://github.com/neox1de/neovim-rust.git
-cp -r neovim-rust/configs ~/.config/nvim
+cp -r neovim-rust/cfgs ~/.config/nvim
 ```
 
 ## Keybindings
